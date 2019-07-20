@@ -7,7 +7,6 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 -------------------------------------------------
 
-using LightGBM to classificate 
 > Final Score(private) 12343.75482
 
 Methods used:
