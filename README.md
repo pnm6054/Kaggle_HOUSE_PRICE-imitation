@@ -1,4 +1,4 @@
-# 19' SMHRD HOUSE_PRICE (REGRESSION)
+# 19' SMHRD KAGGLE COMPETITION (REGRESSION)
 > 19.07.08 ~ 19.07.15 <br>
 https://www.kaggle.com/c/smhrd3/leaderboard
 
